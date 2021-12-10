@@ -1,0 +1,2 @@
+# hitandblow
+hitandblowという４桁の数を当てるゲームのソースコードと、hitandblowの答えを探索するプログラムのソースコードです。
